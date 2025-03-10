@@ -1,0 +1,23 @@
+commit 3482b3a768310f8d79065446491abb3ad84a1fab
+Author: Krista van Zandwijk <g.r.k.v.zandwijk@student.tue.nl>
+Date:   Mon Mar 10 14:04:38 2025 +0100
+
+    ignoring data files
+
+commit 098ff136c43ae7fcb8ff9c8265f9a8dd0afaeb69
+Author: Krista van Zandwijk <g.r.k.v.zandwijk@student.tue.nl>
+Date:   Mon Mar 10 13:43:27 2025 +0100
+
+    add some treatments for patients
+
+commit 432e1733ffe8d7814ed96ac370ffe69a4221c55a
+Author: Krista van Zandwijk <g.r.k.v.zandwijk@student.tue.nl>
+Date:   Mon Mar 10 13:39:13 2025 +0100
+
+    Add docstring
+
+commit 5a0473b4ae454201b534d89ff866e64232d06ace
+Author: Krista van Zandwijk <g.r.k.v.zandwijk@student.tue.nl>
+Date:   Mon Mar 10 13:23:04 2025 +0100
+
+    create script for analysis
