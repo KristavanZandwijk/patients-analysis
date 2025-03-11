@@ -1,7 +1,7 @@
 import numpy as np
 
 def calculate_mean(data):
-"""This function computes the mean of an arraÿ.
+	"""This function computes the mean of an arraÿ.
 Input: A one dimensional array
 Output: The mean of the array
 Usage:
